@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for deterministic RTL design, formal verification, synthesis, DFT and signed boot-ROM and firmware binding: digital operations and results, scan and JTAG test manifests, I/O vector traces and firmware bindings. No RTL synthesis runner, formal verification harness, DFT generator, firmware binder or registered record format is released.",
+  "keywords": [
+    "digital design verification",
+    "formal equivalence",
+    "design for test",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Circuit Digital",
+  "upload_type": "software"
+}
