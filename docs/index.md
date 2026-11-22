@@ -12,4 +12,6 @@ CIRCUIT-DIGITAL — repository foundation
 
 Circuit Digital is being built to execute register-transfer-level elaboration, dual-simulator verification, unbounded and bounded formal checks, hardware security verification, logic synthesis, scan and JTAG design-for-test insertion, first-silicon survivability checks and signed boot-ROM or firmware bindings — completely deterministically without requiring AI. Its current executable surface is repository validation tooling. It has no installed RTL synthesis runner, formal verification harness, DFT generator, firmware binder or qualified record schema.
 
+Circuit Digital is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 Read [Architecture](ARCHITECTURE.md), [validation tooling](validation-tooling.md), [data boundaries](THREAT_MODEL.md) and the [repository boundary decision](adr/0001-repository-boundary.md).
